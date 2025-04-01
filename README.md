@@ -1,11 +1,12 @@
-![Neps Academy](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Neps_Academy_Logo.svg/512px-Neps_Academy_Logo.svg.png)
-
-# 🚀 Neps Academy - C++ Coding Exercises
+# 🚀 C++ Coding Exercises
 
 This repository contains my solutions to coding exercises from **Neps Academy**, completed during my **C++ learning journey**. Each solution reflects my progress in understanding algorithms, data structures, and problem-solving techniques. 💡
 
 ## 📌 About
-- 🌟 **Platform:** [Neps Academy](https://neps.academy/)
+- 🌟 **Platforms:**
+  - [Leetcode](https://leetcode.com/)
+  - [Neps Academy](https://neps.academy/)
+  - [OBI](https://olimpiada.ic.unicamp.br/pratique/)
 - 💻 **Language:** C++
 - 📚 **Topics Covered:**
   - Basic syntax & data types
