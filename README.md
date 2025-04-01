@@ -1,6 +1,8 @@
 # 🚀 C++ Coding Exercises
 
-This repository contains my solutions to coding exercises from **Neps Academy**, completed during my **C++ learning journey**. Each solution reflects my progress in understanding algorithms, data structures, and problem-solving techniques. 💡
+This repository contains my solutions to coding exercises from **OBI (Brazilian Olympiad in Informatics), Neps Academy and Leetcode**, completed during my **Algorithms in C++ learning journey**. Each solution reflects my progress in understanding algorithms, data structures, and problem-solving techniques. 💡
+
+Ps.: I'm still collecting some other execises from those platforms that I've done through the years
 
 ## 📌 About
 - 🌟 **Platforms:**
