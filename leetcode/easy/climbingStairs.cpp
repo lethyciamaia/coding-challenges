@@ -1,6 +1,5 @@
 // 70. Climbing Stairs
-#include <unordered_map>
-
+#include <bits/stdc++.h>
 using namespace std;
 
 class Solution {

@@ -1,10 +1,7 @@
 // 28. Find the Index of the First Occurrence in a String
-#include <string>
-#include <vector>
-
+#include <bits/stdc++.h>
 using namespace std;
 
-// Find the Index of the First Occurrence in a String
 class Solution {
 public:
     // KPM String matching 

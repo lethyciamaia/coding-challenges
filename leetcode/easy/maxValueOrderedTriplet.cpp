@@ -1,6 +1,5 @@
 // 2873. Maximum Value of an Ordered Triplet I [Easy]
-#include <vector>
-
+#include <bits/stdc++.h>
 using namespace std;
 
 class Solution {

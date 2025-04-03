@@ -1,6 +1,5 @@
 // 1822. Sign of the Product of an Array
-#include <vector>
-
+#include <bits/stdc++.h>
 using namespace std;
 
 class Solution {

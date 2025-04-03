@@ -1,6 +1,5 @@
 // 1768. Merge Strings Alternately
-#include <string>
-
+#include <bits/stdc++.h>
 using namespace std;
 
 class Solution {

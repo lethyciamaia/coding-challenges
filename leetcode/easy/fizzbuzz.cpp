@@ -1,7 +1,5 @@
 // 412. Fizz Buzz
-#include <string>
-#include <vector>
-
+#include <bits/stdc++.h>
 using namespace std;
 
 class Solution {

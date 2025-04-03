@@ -1,6 +1,5 @@
 // 58. Length of Last Word
-#include <string>
-
+#include <bits/stdc++.h>
 using namespace std;
 
 class Solution {

@@ -1,6 +1,5 @@
 // 709. To Lower Case
-#include <string>
-
+#include <bits/stdc++.h>
 using namespace std;
 
 class Solution {

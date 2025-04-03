@@ -1,6 +1,5 @@
 // 657. Robot Return to Origin
-#include <string>
-
+#include <bits/stdc++.h>
 using namespace std;
 
 class Solution {

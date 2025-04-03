@@ -1,6 +1,5 @@
 // 13. Roman to Integer
-#include <string>
-
+#include <bits/stdc++.h>
 using namespace std;
 
 class Solution {

@@ -1,6 +1,5 @@
 // 1502. Can Make Arithmetic Progression From Sequence
-#include <vector>
-
+#include <bits/stdc++.h>
 using namespace std;
 
 class Solution {

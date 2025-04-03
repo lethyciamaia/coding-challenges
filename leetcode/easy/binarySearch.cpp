@@ -1,6 +1,5 @@
 // 704. Binary Search
-#include <vector>
-
+#include <bits/stdc++.h>
 using namespace std;
 
 class Solution {

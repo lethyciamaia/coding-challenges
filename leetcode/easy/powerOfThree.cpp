@@ -1,7 +1,5 @@
 // 326. Power of Three
-#include <iostream>
-#include <math.h>
-
+#include <bits/stdc++.h>
 using namespace std;
 
 // Iterative -> O(logN)
