@@ -15,9 +15,11 @@ public:
 };
 
 // TODO: Think of the O(log m+n) solution
+// divide-and-conquer to find K smallest element of the two arrays and then calculate median
 class Solution2 {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
-        
+        int n = (nums1.size() + nums2.size());
+        // if (n%2==0){ find elems k and k+1} else { find elem k }
     }
 };
